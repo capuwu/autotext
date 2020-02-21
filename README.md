@@ -13,8 +13,4 @@ It is simple to use, Looks good and is open source.
 Capu
 
 ### Screenshots
-!(https://gyazo.com/0bdd60b08c32f3a2cee9207791929471)
-
-
-
-
+![Image of Yaktocat](https://gyazo.com/0bdd60b08c32f3a2cee9207791929471)
