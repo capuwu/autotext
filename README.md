@@ -13,8 +13,7 @@ It is simple to use, Looks good and is open source.
 Capu
 
 ### Screenshots
-![GitHub Logo](https://gyazo.com/0bdd60b08c32f3a2cee9207791929471)
-Format: ![Alt Text](url)
+!(https://gyazo.com/0bdd60b08c32f3a2cee9207791929471)
 
 
 
