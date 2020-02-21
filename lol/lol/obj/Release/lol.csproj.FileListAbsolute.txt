@@ -1,0 +1,9 @@
+C:\Users\capu\Desktop\gtachot\lol\lol\bin\Release\lol.exe.config
+C:\Users\capu\Desktop\gtachot\lol\lol\bin\Release\lol.exe
+C:\Users\capu\Desktop\gtachot\lol\lol\bin\Release\lol.pdb
+C:\Users\capu\Desktop\gtachot\lol\lol\obj\Release\lol.csprojAssemblyReference.cache
+C:\Users\capu\Desktop\gtachot\lol\lol\obj\Release\lol.Form1.resources
+C:\Users\capu\Desktop\gtachot\lol\lol\obj\Release\lol.Properties.Resources.resources
+C:\Users\capu\Desktop\gtachot\lol\lol\obj\Release\lol.csproj.GenerateResource.cache
+C:\Users\capu\Desktop\gtachot\lol\lol\obj\Release\lol.exe
+C:\Users\capu\Desktop\gtachot\lol\lol\obj\Release\lol.pdb
