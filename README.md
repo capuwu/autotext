@@ -9,6 +9,9 @@ Autotext is a program that auto writes text for you at any speed. Auto text is v
 ### Why autotext?
 It is simple to use, Looks good and is open source.
 
+### Download
+[Latest](https://github.com/capuwu/autotext/releases)
+
 ### Credits
 Capu
 
