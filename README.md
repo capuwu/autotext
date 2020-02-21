@@ -2,7 +2,9 @@
 Autotext is a program that auto writes text for you at any speed. Auto text is very simple to use!
 
 ## Features
-* asd
+* User-frendly inteface
+* Easy to use
+* Advaced options & easy options
 
 ### Why autotext?
 It is simple to use, Looks good and is open source.
